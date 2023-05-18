@@ -64,9 +64,6 @@ width="800"  height="3">
 
  ![](https://activity-graph.herokuapp.com/graph?username=ZhangXusen&theme=github)
 
-
-
 <br clear="both">
-
 ![snake](./assets/github-contribution-grid-snake.svg)
 
