@@ -62,7 +62,6 @@ width="800"  height="3">
 
 </div>
 
-
 <br clear="both">
 
 ![snake](./assets/github-contribution-grid-snake.svg)
