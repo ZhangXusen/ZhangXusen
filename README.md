@@ -51,9 +51,13 @@ width="800"  height="3">
 ![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhangXusen&hide_title=false&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
   
 ![](https://github-readme-streak-stats.vercel.app/?user=ZhangXusen&hide_border=true&&card_width=320&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
- ## 🏆 GitHub Trophies
- ![profile](https://github-profile-trophy.vercel.app/?username=ZhangXusen&theme=algolia&column=8)
 
+</div>
+
+ ## 🏆 GitHub Trophies
+<div align="center">
+
+![profile](https://github-profile-trophy.vercel.app/?username=ZhangXusen&theme=algolia&column=8)
 
 </div>
 
