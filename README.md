@@ -33,8 +33,9 @@ width="800"  height="3">
 </tr>
 </table>
 
-## 🌐 社交连接:
+## 🌐 社交链接:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Mercurial) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@忧郁脏脏包) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/小国际) 
+[![](https://visitcount.itsvg.in/api?id=ZhangXusen&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💻 技术栈:
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg"  width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="40" height="40"/>
@@ -63,8 +64,7 @@ width="800"  height="3">
 
  ![](https://activity-graph.herokuapp.com/graph?username=ZhangXusen&theme=github)
 
----
-[![](https://visitcount.itsvg.in/api?id=ZhangXusen&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <br clear="both">
 
